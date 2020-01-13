@@ -1,1 +1,1 @@
-# gitProject
+GitProject
